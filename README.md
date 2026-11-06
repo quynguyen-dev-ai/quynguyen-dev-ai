@@ -26,7 +26,7 @@ Based in Hue, Vietnam · **Open to relocation (Germany / EU) or remote.**
 |---|---|---|
 | [**ai-knowledge-copilot**](https://github.com/quynguyen-dev-ai/ai-knowledge-copilot) | Chat with your documents. RAG with streaming answers, citations and per-user workspaces | Next.js · NestJS · FastAPI · pgvector |
 | [**agentic-workflow-engine**](https://github.com/quynguyen-dev-ai/agentic-workflow-engine) | Multi-step AI agent with tool calling, guardrails and an evaluation harness | Python · FastAPI · LLMs |
-| [**multi-tenant-saas-starter**](https://github.com/quynguyen-dev-ai/multi-tenant-saas-starter) | Production-ready SaaS foundation: multi-tenancy, RBAC, billing, CI/CD | NestJS · Next.js · PostgreSQL |
+| [**multi-tenant-saas-starter**](https://github.com/quynguyen-dev-ai/multi-tenant-saas-starter) | B2B SaaS backend: tenant isolation, RBAC, invitations, plan limits, Stripe billing, audit log | NestJS · Prisma · PostgreSQL · Stripe |
 
 ## How I work
 
